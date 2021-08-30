@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NA-56 
--  I live in Latin America and I'm working to become a self taught software developer
+-  I'm working to become a self taught software developer
 
 - 👀 I’m interested in mobile app development, business process automation and gaming platforms
 - 🌱 I’m currently learning C# and python fundamentals, Xamarin and studying Electromechanical engineering 
