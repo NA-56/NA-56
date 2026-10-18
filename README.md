@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @NA-56 
--  I'm working to become a self taught software developer
+# 👋 Hi, I'm @NA-56
 
-- 👀 I’m interested in mobile app development, business process automation and gaming platforms
-- 🌱 I’m currently learning C#, C++ and python fundamentals, Xamarin and studying Electromechanical engineering 
-- 💞️ I’m looking to collaborate on any project that I could get my hands on. 
+Developer based in Panama 🇵🇦. I build business platforms and automation tools that cut down manual work.
 
-- 📫 You could reach me via email: nicolasalviarez@gmail.com 
+### Focus
+- **Business platforms**: web systems built around how an operation actually runs
+- **Process automation**: turning repetitive admin and reporting work into tools
+- **AI-assisted workflows**: practical AI integration into day-to-day work
 
+### Tech
+C# / .NET · Python · PostgreSQL · Docker
 <!---
 NA-56/NA-56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
