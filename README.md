@@ -8,7 +8,7 @@ Developer based in Panama 🇵🇦. I build business platforms and automation to
 - **AI-assisted workflows**: practical AI integration into day-to-day work
 
 ### Tech
-C# / .NET · Python · PostgreSQL · Docker
+C# / .NET · Python · PostgreSQL · Docker | Claude Code, Codex
 <!---
 NA-56/NA-56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
